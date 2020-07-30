@@ -1,0 +1,8 @@
+{
+    "best_em": 39.73,
+    "best_f1": 43.83,
+    "best_answerable_em": 16.69,
+    "best_answerable_f1": 22.76,
+    "best_unanswerable_em": 87.75,
+    "best_f1_threshold": -2.52
+}
