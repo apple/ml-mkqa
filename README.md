@@ -19,7 +19,7 @@ These QIDs also enable automatic translations for most answers into any Wikipedi
 
 
 ## Dataset
-MKQA contains 10,000 queries sampled from the [Google Natural Questions datatset](https://github.com/google-research-datasets/natural-questions).  
+MKQA contains 10,000 queries sampled from the [Google Natural Questions dataset](https://github.com/google-research-datasets/natural-questions).  
 
 For each query we collect new passage-independent answers. 
 These queries and answers are then human translated into 25 Non-English languages.
@@ -155,7 +155,9 @@ pytest ./tests/test_mkqa_eval.py
 
 ## Citation
 Please cite the following if you found MKQA, our [paper](https://arxiv.org/abs/2007.15207), or these resources useful.
-
+```
+@misc{mkqa,title = {MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering},author = {Shayne Longpre and Yi Lu and Joachim Daiber},year = {2020},URL = {https://arxiv.org/pdf/2007.15207.pdf}}
+```
 
 ## License
 The code in this repository is licensed according to the [LICENSE](LICENSE) file.
