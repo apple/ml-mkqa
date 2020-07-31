@@ -156,7 +156,12 @@ pytest ./tests/test_mkqa_eval.py
 ## Citation
 Please cite the following if you found MKQA, our [paper](https://arxiv.org/abs/2007.15207), or these resources useful.
 ```
-@misc{mkqa,title = {MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering},author = {Shayne Longpre and Yi Lu and Joachim Daiber},year = {2020},URL = {https://arxiv.org/pdf/2007.15207.pdf}}
+@misc{mkqa,
+    title = {MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering},
+    author = {Shayne Longpre and Yi Lu and Joachim Daiber},
+    year = {2020},
+    URL = {https://arxiv.org/pdf/2007.15207.pdf}
+}
 ```
 
 ## License
