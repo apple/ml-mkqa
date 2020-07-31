@@ -1,13 +1,13 @@
 # MKQA: Multilingual Knowledge Questions & Answers
 
 [**Tasks**](#task-description) | [**Dataset**](#dataset) | [**Evaluation**](#evaluation) |
-[**Paper**](<palceholder>) |
+[**Paper**](https://arxiv.org/abs/2007.15207) |
 [**Citation**](#citation) | [**License**](#license)
 
 We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs 
 aligned across 26 typologically diverse languages (260k question-answer pairs in total).
 The goal of this dataset is to provide a challenging benchmark for question answering quality across a wide set of
-languages. Please refer to our paper for details, which is coming soon! 
+languages. Please refer to our paper for details, [MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering](https://arxiv.org/abs/2007.15207)
 
 
 ## Task Description
@@ -154,7 +154,8 @@ pytest ./tests/test_mkqa_eval.py
 
 
 ## Citation
-Please cite the following if you found MKQA, our paper (<placeholder link>), or these resources useful.
+Please cite the following if you found MKQA, our [paper](https://arxiv.org/abs/2007.15207), or these resources useful.
+
 
 ## License
 The code in this repository is licensed according to the [LICENSE](LICENSE) file.
