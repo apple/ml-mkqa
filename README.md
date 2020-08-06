@@ -104,7 +104,7 @@ All the supported languages are:
 ## Leaderboard
 | Model name | Best Overall F1 | Best Answerable F1 | Best Unnswerable F1 | Link to paper |
 |---------------|---------------|---------------|---------------|---------------|
-| (Baseline) XLM-R Large Translate Train   |46.0        | 27.6        |84.`        |https://arxiv.org/pdf/1911.02116.pdf        |
+| (Baseline) XLM-R Large Translate Train   |46.0        | 27.6        |84.5        |https://arxiv.org/pdf/1911.02116.pdf        |
 
 > Submit a PR to this repo to participate MKQA leaderboard orded by best overall f1 descendingly
 
