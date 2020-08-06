@@ -106,7 +106,7 @@ All the supported languages are:
 |---------------|---------------|---------------|---------------|---------------|
 | (Baseline) XLM-R Large Translate Train   |46.0        | 27.6        |84.5        |https://arxiv.org/pdf/1911.02116.pdf        |
 
-> Submit a PR to this repo to participate MKQA leaderboard orded by best overall f1 descendingly
+> Submit a pull request to this repository to add yourself to the MKQA leaderboard. Scores are ordered by Best Overall F1.
 
 ## Evaluation
 The official evaluation scripts provide two ways to evaluate performance on the MKQA dataset
