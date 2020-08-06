@@ -1,6 +1,6 @@
 # MKQA: Multilingual Knowledge Questions & Answers
 
-[**Tasks**](#task-description) | [**Dataset**](#dataset) | [**Evaluation**](#evaluation) |
+[**Tasks**](#task-description) | [**Dataset**](#dataset) | [**Leaderboard**](#leaderboard) | [**Evaluation**](#evaluation) |
 [**Paper**](https://arxiv.org/abs/2007.15207) |
 [**Citation**](#citation) | [**License**](#license)
 
@@ -99,6 +99,14 @@ All the supported languages are:
 | `zh_cn`     | `Chinese (Simplified)`   |
 | `zh_hk`     | `Chinese (Hong kong)`    |
 | `zh_tw`     | `Chinese (Traditional)`  |
+
+
+## Leaderboard
+| Model name | Best Overall F1 | Best Answerable F1 | Best Unnswerable F1 | Link to paper |
+|---------------|---------------|---------------|---------------|---------------|
+| `(Baseline) XLM-R Large Translate Train`   |`46.0`        | `27.6`        |`84.5`        |`https://arxiv.org/pdf/1911.02116.pdf`        |
+
+> Submit a PR to this repo to participate MKQA leaderboard orded by best overall f1 descendingly
 
 ## Evaluation
 The official evaluation scripts provide two ways to evaluate performance on the MKQA dataset
