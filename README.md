@@ -176,7 +176,7 @@ Please cite the following if you found MKQA, our [paper](https://arxiv.org/abs/2
 The code in this repository is licensed according to the [LICENSE](LICENSE) file.
 
 
-The Multilingual Knowledge Questions and Answers dataset is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/  
+The Multilingual Knowledge Questions and Answers dataset is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/  
 
 
 ## Contact Us
